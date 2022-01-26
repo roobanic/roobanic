@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Roofan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Rooban
+- 👀 I’m interested in odoo
+- 🌱 I’m currently learning python
+<!---
+- 💞️ I’m looking to collaborate on 
+--->
+- 📫 How to reach me 7448313863 irooban5@gmail.com
 
 <!---
 Roofan/Roofan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
